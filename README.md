@@ -3,7 +3,7 @@ rs recursively traverse a directory
 
 # Install 
 ```
-go get -v GitHub.com/Cne3Rd/rs
+go get -v gitHub.com/Cne3Rd/rs
 ```
 
 # Usage
