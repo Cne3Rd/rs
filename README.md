@@ -1,10 +1,14 @@
 # rs
 rs recursively traverse a directory
 
-
-# Usage
+# Install 
+```
+go get -v GitHub.com/Cne3Rd/filez
 ```
 
+# Usage
+
+```
 f := rs.Walk("c:\\users\\view")
 for _, v := range f {
     fmt.Println(v)
